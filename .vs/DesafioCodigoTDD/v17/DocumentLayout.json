@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86D5C8A9-7CA9-4E9E-87EE-76E5BBD46FC6}|TesteTDD\\TesteTDD.csproj|c:\\users\\luisc\\onedrive\\bootcamp xp\\desenv orient a testes\\desafio de codigo\\desafiocodigotdd\\testetdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D5C8A9-7CA9-4E9E-87EE-76E5BBD46FC6}|TesteTDD\\TesteTDD.csproj|solutionrelative:testetdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F62DB4E-FE96-4A52-B2AE-90066E97ED22}|DesafioCodigoTDD\\DesafioCodigoTDD.csproj|c:\\users\\luisc\\onedrive\\bootcamp xp\\desenv orient a testes\\desafio de codigo\\desafiocodigotdd\\desafiocodigotdd\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F62DB4E-FE96-4A52-B2AE-90066E97ED22}|DesafioCodigoTDD\\DesafioCodigoTDD.csproj|solutionrelative:desafiocodigotdd\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D5C8A9-7CA9-4E9E-87EE-76E5BBD46FC6}|TesteTDD\\TesteTDD.csproj|c:\\users\\luisc\\onedrive\\bootcamp xp\\desenv orient a testes\\desafio de codigo\\desafiocodigotdd\\testetdd\\testetdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86D5C8A9-7CA9-4E9E-87EE-76E5BBD46FC6}|TesteTDD\\TesteTDD.csproj|solutionrelative:testetdd\\testetdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F62DB4E-FE96-4A52-B2AE-90066E97ED22}|DesafioCodigoTDD\\DesafioCodigoTDD.csproj|c:\\users\\luisc\\onedrive\\bootcamp xp\\desenv orient a testes\\desafio de codigo\\desafiocodigotdd\\desafiocodigotdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F62DB4E-FE96-4A52-B2AE-90066E97ED22}|DesafioCodigoTDD\\DesafioCodigoTDD.csproj|solutionrelative:desafiocodigotdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesteTDD.csproj",
+              "DocumentMoniker": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\TesteTDD\\TesteTDD.csproj",
+              "RelativeDocumentMoniker": "TesteTDD\\TesteTDD.csproj",
+              "ToolTip": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\TesteTDD\\TesteTDD.csproj",
+              "RelativeToolTip": "TesteTDD\\TesteTDD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T01:31:51.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\DesafioCodigoTDD\\Calculadora.cs",
+              "RelativeDocumentMoniker": "DesafioCodigoTDD\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\DesafioCodigoTDD\\Calculadora.cs",
+              "RelativeToolTip": "DesafioCodigoTDD\\Calculadora.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowC4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:31:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\TesteTDD\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TesteTDD\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\TesteTDD\\UnitTest1.cs",
+              "RelativeToolTip": "TesteTDD\\UnitTest1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAuwFwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:29:53.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\DesafioCodigoTDD\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioCodigoTDD\\Program.cs",
+              "ToolTip": "C:\\Users\\luisc\\OneDrive\\Bootcamp XP\\Desenv Orient a Testes\\desafio de codigo\\DesafioCodigoTDD\\DesafioCodigoTDD\\Program.cs",
+              "RelativeToolTip": "DesafioCodigoTDD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:26:39.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

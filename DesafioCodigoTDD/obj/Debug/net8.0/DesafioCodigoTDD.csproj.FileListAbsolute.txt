@@ -1,0 +1,14 @@
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\bin\Debug\net8.0\DesafioCodigoTDD.exe
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\bin\Debug\net8.0\DesafioCodigoTDD.deps.json
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\bin\Debug\net8.0\DesafioCodigoTDD.runtimeconfig.json
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\bin\Debug\net8.0\DesafioCodigoTDD.dll
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\bin\Debug\net8.0\DesafioCodigoTDD.pdb
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\DesafioCodigoTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\DesafioCodigoTDD.AssemblyInfoInputs.cache
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\DesafioCodigoTDD.AssemblyInfo.cs
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\DesafioCodigoTDD.csproj.CoreCompileInputs.cache
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\DesafioCodigoTDD.dll
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\refint\DesafioCodigoTDD.dll
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\DesafioCodigoTDD.pdb
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\DesafioCodigoTDD.genruntimeconfig.cache
+C:\Users\luisc\OneDrive\Bootcamp XP\Desenv Orient a Testes\desafio de codigo\DesafioCodigoTDD\DesafioCodigoTDD\obj\Debug\net8.0\ref\DesafioCodigoTDD.dll
